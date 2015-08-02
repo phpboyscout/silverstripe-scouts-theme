@@ -1,0 +1,16 @@
+{
+    "name": "phpboyscout/scout-district-theme",
+    "description": "A Theme for use with the scout district module",
+    "type": "silverstripe-theme",
+    "keywords": ["silverstripe", "theme"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Matt Cockayne",
+            "homepage": "matt@phpboyscout.uk"
+        }
+    ],
+    "require": {
+        "zucchi/scout-district": ">=3.1"
+    }
+}
