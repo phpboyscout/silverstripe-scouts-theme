@@ -1,5 +1,5 @@
 {
-    "name": "phpboyscout/scout-district-theme",
+    "name": "phpboyscout/silverstripe-scouts-theme",
     "description": "A Theme for use with the scout district module",
     "type": "silverstripe-theme",
     "keywords": ["silverstripe", "theme"],
